@@ -1,0 +1,12 @@
+:root {
+ --color-paper:#dfdbd0;--color-paper-2:#eeeae0;--color-paper-3:#c8c5bb;
+ --color-ink:#103b29;--color-ink-2:#3d5a4a;--color-muted:#65786c;
+ --color-rule:#adb5a8;--color-accent:#103b29;--color-accent-ink:#eeeae0;--color-focus:#386c4f;
+ --color-sage:#b1d1b9;--color-spruce:#3d5a4a;--color-shadow:#103b291c;--color-tape:#b8b9a6b8;
+ --font-display:"Lilita One",Georgia,serif;--font-body:"Karla","Trebuchet MS",sans-serif;
+ --radius-card:8px;--radius-control:4px;--tracking-display:-.025em;
+ --space-0:0px;--space-4:4px;--space-8:8px;--space-12:12px;--space-16:16px;--space-20:20px;--space-24:24px;--space-28:28px;--space-32:32px;--space-36:36px;--space-40:40px;--space-48:48px;--space-56:56px;--space-64:64px;--space-72:72px;--space-80:80px;--space-96:96px;
+}
+@font-face{font-family:'Lilita One';font-weight:400;font-style:normal;src:url('assets/lilita-one-400.ttf') format('truetype');font-display:swap}
+@font-face{font-family:'Karla';font-weight:400;font-style:normal;src:url('assets/karla-400.ttf') format('truetype');font-display:swap}
+@font-face{font-family:'Karla';font-weight:600;font-style:normal;src:url('assets/karla-600.ttf') format('truetype');font-display:swap}

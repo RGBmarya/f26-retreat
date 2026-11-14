@@ -1,0 +1,11 @@
+dist/
+node_modules/
+.hallmark/
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+.wrangler/
+*.tar.gz
+.DS_Store
